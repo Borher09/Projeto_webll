@@ -1,4 +1,4 @@
-// src/posto/posto.entity.ts
+
 import {
     BaseEntity,
     Column,
